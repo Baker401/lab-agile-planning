@@ -1,2 +1,2 @@
 # lab-agile-planning
-coursera training for IBM DevOpd full stack developer course
+Coursera training for IBM DevOps full stack developer course
